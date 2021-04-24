@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "681561900800",
+    "project_id": "blended-games-cc73b",
+    "storage_bucket": "blended-games-cc73b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681561900800:android:83ac4e1360b731c0d6d5e5",
+        "android_client_info": {
+          "package_name": "tumblrr.utd.com.stepcounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681561900800-6ns44ietgg8fm57t53p4qsa8uc9i5t3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tumblrr.utd.com.stepcounter",
+            "certificate_hash": "54b01adb3d2c87797ad30f907ac3a94c7fc91166"
+          }
+        },
+        {
+          "client_id": "681561900800-tjd7102o6sa9scq4u9v3srj5ttjqg1ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOWEKA-dOag8vgoqGAsNEPIz65UAIbcdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681561900800-tjd7102o6sa9scq4u9v3srj5ttjqg1ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -36,7 +36,7 @@ import static com.firebase.ui.auth.AuthUI.*;
 public class MainActivity extends AppCompatActivity {
     FirebaseAuth mFirebaseAuth;
     FirebaseAuth.AuthStateListener mAuthListener;
-    private static String GET_ID_PLAYER_URL = "http://144.126.216.255:3010/player_by_email/";
+    private static String GET_ID_PLAYER_URL = "http://164.90.156.141:3010/player_by_email/";
 
     public static final int REQUEST_CODE = 43256;
 
